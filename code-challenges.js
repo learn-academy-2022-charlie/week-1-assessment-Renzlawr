@@ -6,13 +6,13 @@
 
 // --------------------INSTRUCTOR EXAMPLE: Create a function that takes in any two strings and returns the string with more characters. Use the two sets of test variables provided.
 
-// Set one:
-const fruit1 = "apple"
-const fruit2 = "banana"
+// // Set one:
+// const fruit1 = "apple"
+// const fruit2 = "banana"
 
-// Set two:
-const fruit3 = "cherry"
-const fruit4 = "kiwi"
+// // Set two:
+// const fruit3 = "cherry"
+// const fruit4 = "kiwi"
 
 
 // --------------------1) Create a function that takes in any given number and determines if the number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below. Expected output: "42 is below boiling point", "350 is above boiling point", "212 is at boiling point"
