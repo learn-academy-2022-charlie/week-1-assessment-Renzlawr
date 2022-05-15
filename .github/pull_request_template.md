@@ -2,7 +2,7 @@
 
 ### ✅ Completed Files
 Select the following as confirmation that the files in this repository are complete.
-- [ ] Coding Challenges
+- [x] Coding Challenges
 - [x] Coding Concepts
 - [x] Interview Questions
 
